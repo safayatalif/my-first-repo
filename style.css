@@ -1,0 +1,10 @@
+.box{
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border: 5px solid greenyellow;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    background-image: url("../my-first-repo/alif3.jpg");
+}
